@@ -1,0 +1,19 @@
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\bin\Debug\Rechercher.exe.config
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\bin\Debug\Connexion.cs
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\bin\Debug\Rechercher.exe
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\bin\Debug\Rechercher.pdb
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\bin\Debug\ClassLibrary2.dll
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\bin\Debug\ClassLibrary2.pdb
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\obj\Debug\Rechercher.csprojResolveAssemblyReference.cache
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\obj\Debug\Rechercher.Form1.resources
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\obj\Debug\Rechercher.Properties.Resources.resources
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\obj\Debug\Rechercher.csproj.GenerateResource.Cache
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\obj\Debug\Rechercher.exe
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\obj\Debug\Rechercher.pdb
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\obj\Debug\Rechercher.Form_Fourniture.resources
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\bin\Debug\itextsharp.dll
+C:\Users\Oujil\Documents\Visual Studio 2015\Projects\Oujil_KhaliD\Rechercher\bin\Debug\itextsharp.xml
+F:\Rechercher\bin\Debug\Rechercher.exe.config
+F:\Rechercher\obj\Debug\Rechercher.exe
+F:\Rechercher\obj\Debug\Rechercher.pdb
